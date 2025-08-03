@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { SliderItem } from '../types';
-import { FileManager } from '../utils/fileManager';
+import { FileManager } from '../utils/filemanager';
 import JSZip from 'jszip';
 
 interface ExportButtonProps {
